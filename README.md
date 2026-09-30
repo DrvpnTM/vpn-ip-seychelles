@@ -1,18 +1,17 @@
-# VPN IP Seychelles — Dr VPN
+# VPN IP Seychelles — Fast, Secure VPN for Seychelles
 
-**VPN IP Seychelles** is a fast, secure and free VPN for Android. Get a **Seychelles IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Seychelles** is a free, open-source, ad-free VPN app for Android, built for users in Seychelles. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Seychelles (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_sc_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-seychelles/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Seychelles IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Seychelles, Seychelles VPN, VPN IP Seychelles, Seychelles IP address, free VPN Seychelles, buy VPN Seychelles, fast VPN Seychelles, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Seychelles, free VPN Seychelles, fast VPN, VPN IP Seychelles, Android VPN, unblock websites Seychelles.</sub>
